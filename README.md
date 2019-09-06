@@ -1,2 +1,2 @@
 # SpringCrnkSampelApp
-Spring boot with CRNL 
+Spring boot with CRNK
